@@ -9,11 +9,15 @@ Refactored Code (meeting all new functionality requirements)
 Issues Identified
 
 Issue #	Description
-1	Code is repetitive across functions (dl_and_save, dl_and_save_thread, dl_and_save_process). DRY principle violated.
-2	Nested functions in wiki_sequentially and concurrent_threads prevent reuse and aren't supported by multiprocessing.
-3	No input handling for custom search terms and fallback default term.
-4	Output files saved in current directory; doesn't meet requirement to save in a "wiki_dl" directory.
-5	Error handling is missing in dl_and_save_* functions — a bad page will crash the program.
+* Code is repetitive across functions (dl_and_save, dl_and_save_thread, dl_and_save_process). DRY principle violated.
+  
+* Nested functions in wiki_sequentially and concurrent_threads prevent reuse and aren't supported by multiprocessing.
+  
+* No input handling for custom search terms and fallback default term.
+  
+* Output files saved in the current directory; doesn't meet the requirement to save in a "wiki_dl" directory.
+  
+* Error handling is missing in dl_and_save_* functions — a bad page will crash the program.
 
 
 Tasks and Assignments
