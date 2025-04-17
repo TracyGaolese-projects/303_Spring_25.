@@ -659,3 +659,15 @@ https://www.latimes.com/business/la-fi-palantir-sales-ipo-20190107-story.html
 https://www.icas.com/ca-today-news/how-accountancy-and-finance-are-using-artificial-intelligence
 http://fsroundtable.org/cto-corner-artificial-intelligence-use-in-financial-services/
 https://www.sas.com/en_ae/solutions/ai.html
+https://doi.org/10.18653%2Fv1%2FP16-1009
+https://doi.org/10.48550%2FarXiv.1508.04025
+https://doi.org/10.18653%2Fv1%2FD19-1165
+https://doi.org/10.18653%2Fv1%2FP18-2050
+https://doi.org/10.48550%2FarXiv.1906.00408
+https://doi.org/10.48550%2FarXiv.1806.00258
+https://arxiv.org/abs/1508.04025
+https://arxiv.org/abs/1906.00408
+https://arxiv.org/abs/1806.00258
+https://aclanthology.org/P16-1009/
+https://aclanthology.org/D19-1165/
+https://aclanthology.org/P18-2050/
